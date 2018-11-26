@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-client/template-client.iml" filepath="$PROJECT_DIR$/template-client/template-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-common/template-common.iml" filepath="$PROJECT_DIR$/template-common/template-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-datasource/template-datasource.iml" filepath="$PROJECT_DIR$/template-datasource/template-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-serviceapi/template-serviceapi.iml" filepath="$PROJECT_DIR$/template-serviceapi/template-serviceapi.iml" />
+    </modules>
+  </component>
+</project>
